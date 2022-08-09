@@ -77,7 +77,7 @@ __RadFlowDocumentEditor__ gives you the ability to format all occurrences of a s
 * __void ReplaceStyling(Regex regex, Action&lt;CharacterProperties&gt; replacePropertiesAction):__ Applies the character property changes from the Action delegate to all matches of the __Regex__.
 
 
-**Example 3** shows how to apply a red highlight color to all occurrences of the word "alert".
+**Example 3** shows how to apply a red highlight color to all occurrences of the word "text".
 
 
 #### **[C#] Example 3: Replace character properties**
